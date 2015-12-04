@@ -1,0 +1,24 @@
+{
+  "name": "deps-list",
+  "version": "0.0.1",
+  "description": "Output relevant package details to readable file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MattWilliamsDev/deps-list.git"
+  },
+  "author": "Matt Williams <matt.williams@centricconsulting.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MattWilliamsDev/deps-list/issues"
+  },
+  "homepage": "https://github.com/MattWilliamsDev/deps-list#readme",
+  "dependencies": {
+    "JSONStream": "^1.0.7",
+    "commander": "^2.9.0",
+    "underscore": "^1.8.3"
+  }
+}
